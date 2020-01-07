@@ -1,0 +1,6 @@
+COUNTRY_NAME= [
+    ('india', 'INDIA'),
+    ('nepal', 'NEPAL'),
+    ('sri-lanka', 'SRI-LANKA'),
+    ('pakistan', 'Pakistan'),
+    ]
